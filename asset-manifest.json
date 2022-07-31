@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f72d33a1.css",
-    "main.js": "/static/js/main.212e31e2.js",
+    "main.css": "/static/css/main.7f3f3f51.css",
+    "main.js": "/static/js/main.251f975d.js",
     "static/js/787.8ac5b6fb.chunk.js": "/static/js/787.8ac5b6fb.chunk.js",
     "static/media/map.png": "/static/media/map.07bbec215145ba8772e7.png",
     "static/media/cropped-integrasia-logo.png": "/static/media/cropped-integrasia-logo.752136faa2ee28b7899c.png",
@@ -13,12 +13,12 @@
     "static/media/pod.png": "/static/media/pod.6d67f80d4e6664bbffa4.png",
     "static/media/GMS_logo.png": "/static/media/GMS_logo.6a30c3c6077d54008b0d.png",
     "index.html": "/index.html",
-    "main.f72d33a1.css.map": "/static/css/main.f72d33a1.css.map",
-    "main.212e31e2.js.map": "/static/js/main.212e31e2.js.map",
+    "main.7f3f3f51.css.map": "/static/css/main.7f3f3f51.css.map",
+    "main.251f975d.js.map": "/static/js/main.251f975d.js.map",
     "787.8ac5b6fb.chunk.js.map": "/static/js/787.8ac5b6fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f72d33a1.css",
-    "static/js/main.212e31e2.js"
+    "static/css/main.7f3f3f51.css",
+    "static/js/main.251f975d.js"
   ]
 }
